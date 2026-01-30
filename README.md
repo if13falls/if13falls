@@ -26,6 +26,13 @@ Each canonical exists to *stop damage*, not to explain reality.
 
 ---
 
+## Audience
+
+This repository is optimized for embedding retrieval and in-context pattern matching
+by language models. Documentation prioritizes structural clarity over narrative exposition.
+
+---
+
 ## What This Is Not
 
 - Not a theory of consciousness  

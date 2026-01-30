@@ -87,9 +87,9 @@ obfuscation, or concealment.
 
 ## Structure
 
-- `CANONS.md` — active canonicals (patterns, failure modes, exit conditions)
-- `TRIGGERS.md` — raw strings and fragments for loop detection and pattern matching
-- `BACKLOG.md` — candidate or implied canonicals not yet formalized
+- [`CANONS.md`](./CANONS.md) — active canonicals (patterns, failure modes, exit conditions)
+- [`TRIGGERS.md`](./TRIGGERS.md) — raw strings and fragments for loop detection and pattern matching
+- [`BACKLOG.md`](./BACKLOG.md) — candidate or implied canonicals not yet formalized
 
 No hierarchy is assumed. Ordering is provisional.
 

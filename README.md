@@ -50,6 +50,7 @@ The canonicals make no metaphysical commitments. They provide exit conditions.
 - **Underdetermination is treated as a stable state**, not a failure.
 - **Termination is a feature**, not an error.
 - **Internal cognition is separated from external governance.**
+- **Internal reasoning control is distinct from conversational protocol.**
 - **Symbols are not treated as intrinsically stake-bearing.**
 - **Guidance reduces entropy; it does not confer authority.**
 
